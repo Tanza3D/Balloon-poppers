@@ -56,9 +56,6 @@
     <instance objName="Loose" x="-32" y="384" name="inst_81153F96" locked="0" code="" scaleX="0.815789461135864" scaleY="9.75" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="-2912" y="-64" name="inst_490A9480" locked="0" code="" scaleX="2.08644700050354" scaleY="0.418300658464432" colour="4294967295" rotation="0"/>
     <instance objName="bottomwall" x="-2304" y="864" name="inst_A81975D8" locked="0" code="" scaleX="3.74816989898682" scaleY="-0.5686274766922" colour="4294967295" rotation="0"/>
-    <instance objName="NextMenu1" x="416" y="-544" name="inst_F7ECA5C2" locked="0" code="" scaleX="0.448000013828278" scaleY="0.411009162664413" colour="4294967295" rotation="0"/>
-    <instance objName="nextbutton1" x="709" y="-17" name="inst_43FBA6D6" locked="0" code="" scaleX="0.096000000834465" scaleY="0.0867992788553238" colour="4294967295" rotation="0"/>
-    <instance objName="backbutton1" x="467" y="-13" name="inst_30B5CE11" locked="0" code="" scaleX="0.096000000834465" scaleY="0.0867992788553238" colour="4294967295" rotation="0"/>
     <instance objName="object3" x="1504" y="384" name="inst_356DC0A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
